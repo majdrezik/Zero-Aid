@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(23, 26, 29, 0.8);
+  background: rgba(23, 26, 29, 0.9);
 }
 
 #header .logo {
@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(12, 13, 14, 0.8);
+  background-color: rgba(12, 13, 14, 0.5);
 }
 
 #hero .carousel-container {
